@@ -1,4 +1,4 @@
-# JJTTP-Team-4
+# Sunny Vacations
 
 A travel website for users who wish to go on a vacation with their loved ones.
 
@@ -8,8 +8,8 @@ A travel website for users who wish to go on a vacation with their loved ones.
 
 ## Contributors
 
-Kazi, Annie, Janelia, Jayzy, Ana, Matthew, Udipto, Daniel
+JJTTP-Team-4: Kazi, Annie, Janelia, Jayzy, Ana, Matthew, Udipto, Daniel
 
 ## Notes
 
-Only the home page was almost completely developed.
+Only the home page was almost completely developed. This project is part of the 2021 Tech Talent Pipeline bootcamp. 
